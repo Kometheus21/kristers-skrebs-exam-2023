@@ -293,6 +293,10 @@
                 padding: .5rem 1rem;
             }
 
+            tr:hover #td-duration svg {
+                opacity: 1;
+            }
+
             tr:first-child {
                 position: sticky;
                 top     : 0;
